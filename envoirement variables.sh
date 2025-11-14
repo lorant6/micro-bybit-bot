@@ -1,0 +1,4 @@
+BYBIT_API_KEY=your_testnet_api_key
+BYBIT_API_SECRET=your_testnet_api_secret
+BYBIT_TESTNET=true
+INITIAL_CAPITAL=100

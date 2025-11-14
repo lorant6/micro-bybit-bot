@@ -1,0 +1,7 @@
+micro-bybit-bot/
+├── config/          # Configuration files
+├── modules/         # Core trading modules
+├── strategies/      # Trading strategies
+├── utils/          # Utilities and clients
+├── logs/           # Trading logs
+└── tests/          # Test suite

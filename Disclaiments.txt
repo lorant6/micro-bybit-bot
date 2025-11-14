@@ -1,0 +1,96 @@
+🛡️ Risk Management
+
+    10% Daily Loss Limit - Stops trading if down $10
+
+    20% Max Drawdown - Circuit breaker at $20 loss
+
+    Position Limits - Max 1 position per symbol
+
+    Real-time Monitoring - Continuous risk checks
+
+📈 Performance Tracking
+
+The bot provides real-time performance metrics:
+
+    Account balance and growth
+
+    Win rate and total PnL
+
+    Active positions count
+
+    Daily performance
+
+⚠️ Important Warnings
+
+    ALWAYS START WITH TESTNET - Use testnet.bybit.com
+
+    START WITH $100 ONLY - Never risk more than you can lose
+
+    MONITOR REGULARLY - Check performance frequently
+
+    UNDERSTAND RISKS - Crypto trading is high risk
+
+🔍 Strategy Details
+Scanning Module
+
+    5-minute interval scans
+
+    50 high-liquidity symbols
+
+    Momentum, reversal, breakout detection
+
+    Real-time technical analysis
+
+Scalping Module
+
+    1.5% take profit targets
+
+    1.0% stop loss protection
+
+    5-minute maximum hold time
+
+    Multiple strategy support
+
+🐛 Troubleshooting
+Common Issues
+
+API Connection Errors
+
+    Verify testnet keys
+
+    Check internet connection
+
+    Ensure Bybit API is accessible
+
+No Trades Executing
+
+    Check minimum volume requirements
+
+    Verify symbol availability
+
+    Review risk management settings
+
+Support
+
+Create an issue on GitHub for:
+
+    Bug reports
+
+    Feature requests
+
+    Configuration help
+
+📄 License
+
+MIT License - see LICENSE file for details
+🤝 Contributing
+
+Contributions welcome! Please:
+
+    Fork the repository
+
+    Create a feature branch
+
+    Submit a pull request
+
+Disclaimer: This bot is for educational purposes. Trading cryptocurrencies carries significant risk. Past performance doesn't guarantee future results. Always test with small amounts first.
