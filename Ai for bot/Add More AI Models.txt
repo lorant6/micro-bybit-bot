@@ -1,0 +1,7 @@
+# Add LSTM for time series prediction
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import LSTM, Dense
+
+# Add reinforcement learning
+# Add sentiment analysis from news
+# Add deep learning models

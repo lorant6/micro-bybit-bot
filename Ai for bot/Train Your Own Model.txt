@@ -1,0 +1,6 @@
+# Add this to collect training data
+async def collect_training_data(self, symbol: str, features: Dict, actual_outcome: str):
+    """Collect data for AI model training"""
+    # Store features and actual trade outcomes
+    # Use this to retrain the model periodically
+    pass
