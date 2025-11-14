@@ -95,7 +95,7 @@ Step 2: Clone and Setup
 bash
 
 # Clone your repository
-git clone https://github.com/YOUR_USERNAME/micro-bybit-bot.git
+git clone https://github.com/loranr6/micro-bybit-bot.git
 cd micro-bybit-bot
 
 # Run the setup script
