@@ -1,0 +1,5 @@
+# Install new dependencies
+pip install -r requirements.txt
+
+# Run the AI-enhanced bot
+python main.py
