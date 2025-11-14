@@ -1,7 +1,6 @@
 
 ### Create requirements.txt
-
-**requirements.txt**
+requirements.txt
 pybit==2.8.1
 pandas==2.0.3
 numpy==1.24.3
