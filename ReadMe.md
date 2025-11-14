@@ -15,5 +15,5 @@ A professional trading bot optimized for Bybit with $100 accounts. Features adva
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/micro-bybit-bot.git
+git clone https://github.com/lorant6/micro-bybit-bot.git
 cd micro-bybit-bot
