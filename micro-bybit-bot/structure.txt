@@ -1,0 +1,35 @@
+micro-bybit-bot/
+├── .github/
+│   └── workflows/
+│       └── python-tests.yml
+├── config/
+│   ├── __init__.py
+│   ├── micro_account_config.py
+│   └── top_500_micro.py
+├── modules/
+│   ├── __init__.py
+│   ├── micro_universe.py
+│   ├── efficient_scanner.py
+│   ├── micro_scalper.py
+│   └── nano_risk.py
+├── strategies/
+│   ├── __init__.py
+│   ├── micro_momentum.py
+│   └── penny_scalp.py
+├── utils/
+│   ├── __init__.py
+│   ├── micro_bybit.py
+│   └── efficient_indicators.py
+├── tests/
+│   ├── __init__.py
+│   └── test_bot.py
+├── logs/
+│   └── .gitkeep
+├── .env.example
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── setup.py
+├── main.py
+└── run_bot.py
